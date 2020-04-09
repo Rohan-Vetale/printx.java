@@ -29,7 +29,7 @@ public class printx {
 	{
 		for(int l=1 ;l<i ;l++)
 		{
-			System.out.print(" ");
+			System.out.print(" "); //yaha pe firse spaces ko replace krna hai
 		}
 		System.out.print("x");
 		
